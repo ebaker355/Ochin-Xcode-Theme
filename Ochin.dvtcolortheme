@@ -3,33 +3,33 @@
 <plist version="1.0">
 <dict>
 	<key>DVTConsoleDebuggerInputTextColor</key>
-	<string>0 0 0 1</string>
+	<string>0.901961 0.901961 0.901961 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>Menlo-Bold - 11.0</string>
+	<string>InputMonoCondensed-Regular - 15.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
-	<string>0 0 0 1</string>
+	<string>0.901961 0.901961 0.901961 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>Menlo-Regular - 11.0</string>
+	<string>InputMonoCondensed-Regular - 15.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
-	<string>0.169 0.512 0.625 1</string>
+	<string>0.509804 0.890196 0.313725 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
-	<string>Menlo-Bold - 11.0</string>
+	<string>InputMonoCondensed-Bold - 15.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
-	<string>0 0 0 1</string>
+	<string>0.901961 0.901961 0.901961 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>Menlo-Regular - 11.0</string>
+	<string>InputMonoCondensed-Regular - 15.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
-	<string>0 0 0 1</string>
+	<string>0.901961 0.901961 0.901961 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>Menlo-Bold - 11.0</string>
+	<string>InputMonoCondensed-Bold - 15.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
-	<string>1 1 1 1</string>
+	<string>0.141176 0.184314 0.235294 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
-	<string>0 0 0 1</string>
+	<string>0.509804 0.890196 0.313725 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
-	<string>0.811873 0.884792 0.998455 1</string>
+	<string>0.259403 0.347458 0.468842 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
-	<string>0.705792 0.8 0.544 1</string>
+	<string>0.356863 0.392157 0.435294 1</string>
 	<key>DVTMarkupTextBackgroundColor</key>
 	<string>0.96 0.96 0.96 1</string>
 	<key>DVTMarkupTextBorderColor</key>
@@ -81,11 +81,11 @@
 		<key>xcode.syntax.character</key>
 		<string>0.388917 0.563729 0.796503 1</string>
 		<key>xcode.syntax.comment</key>
-		<string>0.901961 0.901961 0.901961 1</string>
+		<string>0.419608 0.458824 0.498039 1</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>0.901961 0.901961 0.901961 1</string>
+		<string>0.992157 0.945098 0.756863 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>1 0.886275 0.501961 1</string>
+		<string>0.992157 0.945098 0.756863 1</string>
 		<key>xcode.syntax.identifier.class</key>
 		<string>0.654902 0.580392 0.482353 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
